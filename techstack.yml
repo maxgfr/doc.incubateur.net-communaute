@@ -1,11 +1,11 @@
 repo_name: maxgfr/doc.incubateur.net-communaute
-report_id: 70db28ae43c748b1d43ad25f9edce898
+report_id: f6685931a047d54ba1eb4fd0b6833df6
 repo_type: Public
-timestamp: '2023-11-10T09:34:03+00:00'
+timestamp: '2023-12-14T10:16:23+00:00'
 requested_by: gitbook-bot
 provider: github
 branch: master
-detected_tools_count: 1
+detected_tools_count: 2
 tools:
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -16,3 +16,13 @@ tools:
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: ".gitbook/assets/Beta Ok GIF by InternetBeta - Find & Share on
+    GIPHY.html"
+  last_updated_by: Léry JICQUEL
+  last_updated_on: 2021-10-11 10:49:02.000000000 Z
